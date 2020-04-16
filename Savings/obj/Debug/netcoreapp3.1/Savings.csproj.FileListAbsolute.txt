@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\labtask6\savings\bin\Debug\netcoreapp3.1\Savings.exe
+C:\codebits-academy\html5\C#\labtask6\savings\bin\Debug\netcoreapp3.1\Savings.deps.json
+C:\codebits-academy\html5\C#\labtask6\savings\bin\Debug\netcoreapp3.1\Savings.runtimeconfig.json
+C:\codebits-academy\html5\C#\labtask6\savings\bin\Debug\netcoreapp3.1\Savings.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\labtask6\savings\bin\Debug\netcoreapp3.1\Savings.dll
+C:\codebits-academy\html5\C#\labtask6\savings\bin\Debug\netcoreapp3.1\Savings.pdb
+C:\codebits-academy\html5\C#\labtask6\savings\obj\Debug\netcoreapp3.1\Savings.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\labtask6\savings\obj\Debug\netcoreapp3.1\Savings.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\labtask6\savings\obj\Debug\netcoreapp3.1\Savings.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\labtask6\savings\obj\Debug\netcoreapp3.1\Savings.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\labtask6\savings\obj\Debug\netcoreapp3.1\Savings.dll
+C:\codebits-academy\html5\C#\labtask6\savings\obj\Debug\netcoreapp3.1\Savings.pdb
+C:\codebits-academy\html5\C#\labtask6\savings\obj\Debug\netcoreapp3.1\Savings.genruntimeconfig.cache

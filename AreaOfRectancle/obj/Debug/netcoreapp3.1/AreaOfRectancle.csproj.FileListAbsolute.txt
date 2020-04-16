@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\labtask6\Areaofrectancle\bin\Debug\netcoreapp3.1\AreaOfRectancle.exe
+C:\codebits-academy\html5\C#\labtask6\Areaofrectancle\bin\Debug\netcoreapp3.1\AreaOfRectancle.deps.json
+C:\codebits-academy\html5\C#\labtask6\Areaofrectancle\bin\Debug\netcoreapp3.1\AreaOfRectancle.runtimeconfig.json
+C:\codebits-academy\html5\C#\labtask6\Areaofrectancle\bin\Debug\netcoreapp3.1\AreaOfRectancle.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\labtask6\Areaofrectancle\bin\Debug\netcoreapp3.1\AreaOfRectancle.dll
+C:\codebits-academy\html5\C#\labtask6\Areaofrectancle\bin\Debug\netcoreapp3.1\AreaOfRectancle.pdb
+C:\codebits-academy\html5\C#\labtask6\Areaofrectancle\obj\Debug\netcoreapp3.1\AreaOfRectancle.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\labtask6\Areaofrectancle\obj\Debug\netcoreapp3.1\AreaOfRectancle.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\labtask6\Areaofrectancle\obj\Debug\netcoreapp3.1\AreaOfRectancle.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\labtask6\Areaofrectancle\obj\Debug\netcoreapp3.1\AreaOfRectancle.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\labtask6\Areaofrectancle\obj\Debug\netcoreapp3.1\AreaOfRectancle.dll
+C:\codebits-academy\html5\C#\labtask6\Areaofrectancle\obj\Debug\netcoreapp3.1\AreaOfRectancle.pdb
+C:\codebits-academy\html5\C#\labtask6\Areaofrectancle\obj\Debug\netcoreapp3.1\AreaOfRectancle.genruntimeconfig.cache

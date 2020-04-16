@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\labtask6\complexnumber\obj\Debug\netcoreapp3.1\ComplexNumber.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\labtask6\complexnumber\obj\Debug\netcoreapp3.1\ComplexNumber.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\labtask6\complexnumber\obj\Debug\netcoreapp3.1\ComplexNumber.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\labtask6\complexnumber\obj\Debug\netcoreapp3.1\ComplexNumber.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\labtask6\complexnumber\bin\Debug\netcoreapp3.1\ComplexNumber.exe
+C:\codebits-academy\html5\C#\labtask6\complexnumber\bin\Debug\netcoreapp3.1\ComplexNumber.deps.json
+C:\codebits-academy\html5\C#\labtask6\complexnumber\bin\Debug\netcoreapp3.1\ComplexNumber.runtimeconfig.json
+C:\codebits-academy\html5\C#\labtask6\complexnumber\bin\Debug\netcoreapp3.1\ComplexNumber.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\labtask6\complexnumber\bin\Debug\netcoreapp3.1\ComplexNumber.dll
+C:\codebits-academy\html5\C#\labtask6\complexnumber\bin\Debug\netcoreapp3.1\ComplexNumber.pdb
+C:\codebits-academy\html5\C#\labtask6\complexnumber\obj\Debug\netcoreapp3.1\ComplexNumber.dll
+C:\codebits-academy\html5\C#\labtask6\complexnumber\obj\Debug\netcoreapp3.1\ComplexNumber.pdb
+C:\codebits-academy\html5\C#\labtask6\complexnumber\obj\Debug\netcoreapp3.1\ComplexNumber.genruntimeconfig.cache
